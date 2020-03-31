@@ -1,2 +1,2 @@
 # QuickSortMips
-QuickSort implemented in mips
+**Quicksort Mips implementation**
